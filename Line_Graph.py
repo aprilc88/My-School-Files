@@ -1,6 +1,6 @@
 '''
 This program displays a line graph for sales over 10 years.
-Autor: April Carchedi
+Author: April Carchedi
 '''
 import matplotlib.pyplot as plt
 
